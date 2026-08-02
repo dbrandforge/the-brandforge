@@ -50,6 +50,4 @@ Inspired by the clarity of Apple, the precision of Stripe, and the elegance of L
 
 **Project Owner:** Abraham Oyetunji
 
-**Lead AI Developer:** ChatGPT
-
 **Codename:** Project FORGE 🔥
