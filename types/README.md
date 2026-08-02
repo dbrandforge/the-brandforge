@@ -1,0 +1,1 @@
+This folder contains shared TypeScript type definitions.
